@@ -1,13 +1,18 @@
 # **Tea Cozy Shop Webpage**
-## *Layout based in flexbox CSS3, followed by a redline see: (tea-cozy-redline)*
-[Here you can see the demo of this project]()
+## *Layout based in flexbox CSS3, following a [Design Spec](#design-spec).*
+## [Here you can see the demo of this project]()
 
-## **Overview**
-![screenshot]()
+<br>
+
+## **Design spec**
+![screenshot](./tea-cozy-redline.jpg)
+
+## **Final Project Overview**
+![screenshot](./screenshot.png)
 
 ## **Features and Objectives**
-* A webpage for a Tea Shop based in FlexBox and full responsive.
-* The objective was follow a design spec.
+* A webpage for a Tea Shop based in FlexBox.
+* The objective was to follow a design specification.
 
 ## **Built with**
 * HTML5
