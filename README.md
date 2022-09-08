@@ -1,6 +1,6 @@
 # **Tea Cozy Shop Webpage**
 ## *Layout based in flexbox CSS3, following a [Design Spec](#design-spec).*
-## [Here you can see the demo of this project](https://necogamy.github.io/tea-shop-webpage-flexbox/)
+## [Here you can see the demo of this project](https://nycolop.github.io/tea-shop-webpage-flexbox/)
 
 <br>
 
